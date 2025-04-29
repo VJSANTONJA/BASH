@@ -1,4 +1,4 @@
-# Ejemplos sobre sentencias IF. MOdificado 1
+# Ejemplos sobre sentencias IF. MOdificado 2
 
 #!/bin/bash
 
